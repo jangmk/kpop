@@ -2,8 +2,7 @@
   "agents": [
     {
       "id": 1,
-      "agent": "하이브 (HYBE)",
-      "address": "서울특별시 용산구 한강대로 42 용산 트레이드 센터",
+      "agent": "하이브",
       "groups": [
         {
           "group": "방탄소년단 (BTS)",
@@ -107,11 +106,10 @@
     },
     {
       "id": 2,
-      "agent": "SM 엔터테인먼트",
-      "address": "서울특별시 성동구 왕십리로 83-21 아크로 서울포레스트 D TOWER",
+      "agent": "SM",
       "groups": [
         {
-          "group": "에스파 (aespa)",
+          "group": "에스파",
           "hitsongs": [
             {
               "title": "Next Level",
@@ -150,14 +148,14 @@
           ]
         },
         {
-          "group": "레드벨벳 (Red Velvet)",
+          "group": "레드벨벳",
           "hitsongs": [
             {
               "title": "Psycho",
               "youtube": "uR8Mrt1IpXg"
             },
             {
-              "title": "Red Flavor (빨간 맛)",
+              "title": "빨간 맛",
               "youtube": "WyiIGEHQP8o"
             },
             {
@@ -201,8 +199,7 @@
     },
     {
       "id": 3,
-      "agent": "JYP 엔터테인먼트",
-      "address": "서울특별시 강동구 강동대로 205",
+      "agent": "JYP",
       "groups": [
         {
           "group": "있지 (ITZY)",
@@ -252,11 +249,10 @@
     },
     {
       "id": 4,
-      "agent": "YG 엔터테인먼트",
-      "address": "서울특별시 마포구 월드컵북로6길 10",
+      "agent": "YG",
       "groups": [
         {
-          "group": "블랙핑크 (BLACKPINK)",
+          "group": "블랙핑크",
           "hitsongs": [
             {
               "title": "뚜두뚜두",
@@ -298,11 +294,10 @@
     },
     {
       "id": 5,
-      "agent": "스타쉽 엔터테인먼트",
-      "address": "서울특별시 강남구 선릉로131길 13",
+      "agent": "스타쉽",
       "groups": [
         {
-          "group": "아이브 (IVE)",
+          "group": "아이브",
           "hitsongs": [
             {
               "title": "LOVE DIVE",
@@ -335,7 +330,7 @@
             {
               "name": "레이",
               "role": "메인 래퍼, 서브 보컬",
-              "imgURL": "https://i.namu.wiki/i/9Uw4N03XlI9RoNJVVDmxiUr-Bg0fBCAjfbLSuXsXhWPSiVEx8f2BoErZ5NQwyVCdnhB1BWIbWi1V7WPSVRme_w.webp"
+              "imgURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/11/cbe7106a-4922-410e-a777-a7a466687fd2.jpg"
             },
             {
               "name": "리즈",
