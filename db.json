@@ -57,25 +57,6 @@
             "그룹내역할": "보컬, 댄서"
           }
         ]
-      },
-      {
-        "그룹명": "투모로우바이투게더 (TXT)",
-        "히트곡목록": [
-          {
-            "제목": "Good Boy Gone Bad",
-            "유튜브URL": "https://www.youtube.com/watch?v=hN_sPz-Bf3k"
-          },
-          {
-            "제목": "Sugar Rush Ride",
-            "유튜브URL": "https://www.youtube.com/watch?v=V9Qz-c8gq-I"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "수빈",
-            "그룹내역할": "리더, 보컬"
-          }
-        ]
       }
     ]
   },
@@ -112,29 +93,6 @@
         ]
       },
       {
-        "그룹명": "NCT Dream",
-        "히트곡목록": [
-          {
-            "제목": "Hot Sauce",
-            "유튜브URL": "https://www.youtube.com/watch?v=F_Yc2bYv64Y"
-          },
-          {
-            "제목": "Candy",
-            "유튜브URL": "https://www.youtube.com/watch?v=8-D752_Zl4c"
-          },
-          {
-            "제목": "ISTJ",
-            "유튜브URL": "https://www.youtube.com/watch?v=wldYhSgQo20"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "마크",
-            "그룹내역할": "리더, 메인 래퍼, 메인 댄서"
-          }
-        ]
-      },
-      {
         "그룹명": "레드벨벳 (Red Velvet)",
         "히트곡목록": [
           {
@@ -164,25 +122,6 @@
             "그룹내역할": "리드 보컬, 메인 댄서"
           }
         ]
-      },
-      {
-        "그룹명": "샤이니 (SHINee)",
-        "히트곡목록": [
-          {
-            "제목": "Ring Ding Dong",
-            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_01"
-          },
-          {
-            "제목": "Don't Call Me",
-            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_02"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "민호",
-            "그룹내역할": "메인 래퍼, 서브 보컬"
-          }
-        ]
       }
     ]
   },
@@ -191,33 +130,6 @@
     "소속사명": "JYP 엔터테인먼트",
     "회사주소": "서울특별시 강동구 강동대로 205",
     "그룹목록": [
-      {
-        "그룹명": "스트레이 키즈 (Stray Kids)",
-        "히트곡목록": [
-          {
-            "제목": "MANIAC",
-            "유튜브URL": "https://www.youtube.com/watch?v=OStfK9y4g0M"
-          },
-          {
-            "제목": "God's Menu",
-            "유튜브URL": "https://www.youtube.com/watch?v=TQTlCHHWulw"
-          },
-          {
-            "제목": "S-Class",
-            "유튜브URL": "https://www.youtube.com/watch?v=0kYw_fR-W6w"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "방찬",
-            "그룹내역할": "리더, 보컬, 래퍼, 프로듀서"
-          },
-          {
-            "멤버이름": "필릭스",
-            "그룹내역할": "리드 댄서, 리드 래퍼"
-          }
-        ]
-      },
       {
         "그룹명": "트와이스 (TWICE)",
         "히트곡목록": [
@@ -267,25 +179,6 @@
             "그룹내역할": "리드 래퍼, 리드 댄서, 비주얼"
           }
         ]
-      },
-      {
-        "그룹명": "NMIXX",
-        "히트곡목록": [
-          {
-            "제목": "DICE",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_05"
-          },
-          {
-            "제목": "Party O'Clock",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_06"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "릴리",
-            "그룹내역할": "메인 보컬"
-          }
-        ]
       }
     ]
   },
@@ -314,25 +207,6 @@
           {
             "멤버이름": "제니",
             "그룹내역할": "메인 래퍼, 리드 보컬"
-          }
-        ]
-      },
-      {
-        "그룹명": "트레저 (TREASURE)",
-        "히트곡목록": [
-          {
-            "제목": "JIKJIN",
-            "유튜브URL": "https://www.youtube.com/watch?v=n-qS_Yv9s7E"
-          },
-          {
-            "제목": "DARARI",
-            "유튜브URL": "https://www.youtube.com/watch?v=Gk7p18H93lY"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "하루토",
-            "그룹내역할": "메인 래퍼"
           }
         ]
       },
