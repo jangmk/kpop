@@ -1,241 +1,243 @@
-[
-  {
-    "id": 1,
-    "소속사명": "하이브 (HYBE)",
-    "회사주소": "서울특별시 용산구 한강대로 42 용산 트레이드 센터",
-    "그룹목록": [
-      {
-        "그룹명": "방탄소년단 (BTS)",
-        "히트곡목록": [
-          {
-            "제목": "Dynamite",
-            "유튜브URL": "https://www.youtube.com/watch?v=gdZLi9oWCAk"
-          },
-          {
-            "제목": "Butter",
-            "유튜브URL": "https://www.youtube.com/watch?v=WMweEpGlu_U"
-          },
-          {
-            "제목": "DNA",
-            "유튜브URL": "https://www.youtube.com/watch?v=MBdVXkSygzI"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "RM",
-            "그룹내역할": "리더, 메인 래퍼"
-          },
-          {
-            "멤버이름": "지민",
-            "그룹내역할": "리드 보컬, 메인 댄서"
-          }
-        ]
-      },
-      {
-        "그룹명": "뉴진스 (NewJeans)",
-        "히트곡목록": [
-          {
-            "제목": "Hype Boy",
-            "유튜브URL": "https://www.youtube.com/watch?v=MFKzrgMdYxY"
-          },
-          {
-            "제목": "Ditto",
-            "유튜브URL": "https://www.youtube.com/watch?v=pBuZEsByXzE"
-          },
-          {
-            "제목": "Attention",
-            "유튜브URL": "https://www.youtube.com/watch?v=js1CtxSY38I"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "하니",
-            "그룹내역할": "보컬, 댄서"
-          },
-          {
-            "멤버이름": "민지",
-            "그룹내역할": "보컬, 댄서"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "소속사명": "SM 엔터테인먼트",
-    "회사주소": "서울특별시 성동구 왕십리로 83-21 아크로 서울포레스트 D TOWER",
-    "그룹목록": [
-      {
-        "그룹명": "에스파 (aespa)",
-        "히트곡목록": [
-          {
-            "제목": "Next Level",
-            "유튜브URL": "https://www.youtube.com/watch?v=4TWR90XkY84"
-          },
-          {
-            "제목": "Savage",
-            "유튜브URL": "https://www.youtube.com/watch?v=WP2E53P5Gq4"
-          },
-          {
-            "제목": "Drama",
-            "유튜브URL": "https://www.youtube.com/watch?v=KU5H9Q-L2w4"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "카리나",
-            "그룹내역할": "리더, 메인 댄서, 리드 래퍼, 서브 보컬"
-          },
-          {
-            "멤버이름": "윈터",
-            "그룹내역할": "리드 보컬, 리드 댄서"
-          }
-        ]
-      },
-      {
-        "그룹명": "레드벨벳 (Red Velvet)",
-        "히트곡목록": [
-          {
-            "제목": "Psycho",
-            "유튜브URL": "https://www.youtube.com/watch?v=uR8Mrt1IpXg"
-          },
-          {
-            "제목": "Red Flavor (빨간 맛)",
-            "유튜브URL": "https://www.youtube.com/watch?v=WyiIGdP5gO8"
-          },
-          {
-            "제목": "Feel My Rhythm",
-            "유튜브URL": "https://www.youtube.com/watch?v=AJtU_k3kP5k"
-          },
-          {
-            "제목": "Bad Boy",
-            "유튜브URL": "https://www.youtube.com/watch?v=J_CFBxcLz50"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "아이린",
-            "그룹내역할": "리더, 메인 래퍼, 서브 보컬"
-          },
-          {
-            "멤버이름": "슬기",
-            "그룹내역할": "리드 보컬, 메인 댄서"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "소속사명": "JYP 엔터테인먼트",
-    "회사주소": "서울특별시 강동구 강동대로 205",
-    "그룹목록": [
-      {
-        "그룹명": "있지 (ITZY)",
-        "히트곡목록": [
-          {
-            "제목": "DALLA DALLA",
-            "유튜브URL": "https://www.youtube.com/watch?v=Hbb5GPXC1go"
-          },
-          {
-            "제목": "WANNABE",
-            "유튜브URL": "https://www.youtube.com/watch?v=fE2Y0S7Jz10"
-          },
-          {
-            "제목": "LOCO",
-            "유튜브URL": "https://www.youtube.com/watch?v=pNfTK39Repk"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "유나",
-            "그룹내역할": "리드 래퍼, 리드 댄서, 비주얼"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "소속사명": "YG 엔터테인먼트",
-    "회사주소": "서울특별시 마포구 월드컵북로6길 10",
-    "그룹목록": [
-      {
-        "그룹명": "블랙핑크 (BLACKPINK)",
-        "히트곡목록": [
-          {
-            "제목": "DDU-DU DDU-DU",
-            "유튜브URL": "https://www.youtube.com/watch?v=IHNzOHiIRi4"
-          },
-          {
-            "제목": "How You Like That",
-            "유튜브URL": "https://www.youtube.com/watch?v=ioNng23DkIM"
-          },
-          {
-            "제목": "Lovesick Girls",
-            "유튜브URL": "https://www.youtube.com/watch?v=dyrsRzI4jB8"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "제니",
-            "그룹내역할": "메인 래퍼, 리드 보컬"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "소속사명": "스타쉽 엔터테인먼트",
-    "회사주소": "서울특별시 강남구 선릉로131길 13",
-    "그룹목록": [
-      {
-        "그룹명": "아이브 (IVE)",
-        "히트곡목록": [
-          {
-            "제목": "LOVE DIVE",
-            "유튜브URL": "https://www.youtube.com/watch?v=MN_d-1S6p4s"
-          },
-          {
-            "제목": "After LIKE",
-            "유튜브URL": "https://www.youtube.com/watch?v=F0BwzI-T8Jc"
-          },
-          {
-            "제목": "I AM",
-            "유튜브URL": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
-          },
-          {
-            "제목": "Kitsch",
-            "유튜브URL": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "장원영",
-            "그룹내역할": "보컬, 센터, 비주얼"
-          }
-        ]
-      },
-      {
-        "그룹명": "몬스타엑스 (MONSTA X)",
-        "히트곡목록": [
-          {
-            "제목": "Shoot Out",
-            "유튜브URL": "https://www.youtube.com/watch?v=845vN4-4H_A"
-          },
-          {
-            "제목": "FANTASIA",
-            "유튜브URL": "https://www.youtube.com/watch?v=l_tW8rE5XpE"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "셔누",
-            "그룹내역할": "리더, 메인 댄서, 리드 보컬"
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "agents": [
+    {
+      "id": 1,
+      "agent": "하이브 (HYBE)",
+      "address": "서울특별시 용산구 한강대로 42 용산 트레이드 센터",
+      "groups": [
+        {
+          "group": "방탄소년단 (BTS)",
+          "hitsongs": [
+            {
+              "title": "Dynamite",
+              "youtube": "https://www.youtube.com/watch?v=gdZLi9oWCAk"
+            },
+            {
+              "title": "Butter",
+              "youtube": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+            },
+            {
+              "title": "DNA",
+              "youtube": "https://www.youtube.com/watch?v=MBdVXkSygzI"
+            }
+          ],
+          "members": [
+            {
+              "member": "RM",
+              "role": "리더, 메인 래퍼"
+            },
+            {
+              "member": "지민",
+              "role": "리드 보컬, 메인 댄서"
+            }
+          ]
+        },
+        {
+          "group": "뉴진스 (NewJeans)",
+          "hitsongs": [
+            {
+              "title": "Hype Boy",
+              "youtube": "https://www.youtube.com/watch?v=MFKzrgMdYxY"
+            },
+            {
+              "title": "Ditto",
+              "youtube": "https://www.youtube.com/watch?v=pBuZEsByXzE"
+            },
+            {
+              "title": "Attention",
+              "youtube": "https://www.youtube.com/watch?v=js1CtxSY38I"
+            }
+          ],
+          "members": [
+            {
+              "member": "하니",
+              "role": "보컬, 댄서"
+            },
+            {
+              "member": "민지",
+              "role": "보컬, 댄서"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "agent": "SM 엔터테인먼트",
+      "address": "서울특별시 성동구 왕십리로 83-21 아크로 서울포레스트 D TOWER",
+      "groups": [
+        {
+          "group": "에스파 (aespa)",
+          "hitsongs": [
+            {
+              "title": "Next Level",
+              "youtube": "https://www.youtube.com/watch?v=4TWR90XkY84"
+            },
+            {
+              "title": "Savage",
+              "youtube": "https://www.youtube.com/watch?v=WP2E53P5Gq4"
+            },
+            {
+              "title": "Drama",
+              "youtube": "https://www.youtube.com/watch?v=KU5H9Q-L2w4"
+            }
+          ],
+          "members": [
+            {
+              "member": "카리나",
+              "role": "리더, 메인 댄서, 리드 래퍼, 서브 보컬"
+            },
+            {
+              "member": "윈터",
+              "role": "리드 보컬, 리드 댄서"
+            }
+          ]
+        },
+        {
+          "group": "레드벨벳 (Red Velvet)",
+          "hitsongs": [
+            {
+              "title": "Psycho",
+              "youtube": "https://www.youtube.com/watch?v=uR8Mrt1IpXg"
+            },
+            {
+              "title": "Red Flavor (빨간 맛)",
+              "youtube": "https://www.youtube.com/watch?v=WyiIGdP5gO8"
+            },
+            {
+              "title": "Feel My Rhythm",
+              "youtube": "https://www.youtube.com/watch?v=AJtU_k3kP5k"
+            },
+            {
+              "title": "Bad Boy",
+              "youtube": "https://www.youtube.com/watch?v=J_CFBxcLz50"
+            }
+          ],
+          "members": [
+            {
+              "member": "아이린",
+              "role": "리더, 메인 래퍼, 서브 보컬"
+            },
+            {
+              "member": "슬기",
+              "role": "리드 보컬, 메인 댄서"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "agent": "JYP 엔터테인먼트",
+      "address": "서울특별시 강동구 강동대로 205",
+      "groups": [
+        {
+          "group": "있지 (ITZY)",
+          "hitsongs": [
+            {
+              "title": "DALLA DALLA",
+              "youtube": "https://www.youtube.com/watch?v=Hbb5GPXC1go"
+            },
+            {
+              "title": "WANNABE",
+              "youtube": "https://www.youtube.com/watch?v=fE2Y0S7Jz10"
+            },
+            {
+              "title": "LOCO",
+              "youtube": "https://www.youtube.com/watch?v=pNfTK39Repk"
+            }
+          ],
+          "members": [
+            {
+              "member": "유나",
+              "role": "리드 래퍼, 리드 댄서, 비주얼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "agent": "YG 엔터테인먼트",
+      "address": "서울특별시 마포구 월드컵북로6길 10",
+      "groups": [
+        {
+          "group": "블랙핑크 (BLACKPINK)",
+          "hitsongs": [
+            {
+              "title": "DDU-DU DDU-DU",
+              "youtube": "https://www.youtube.com/watch?v=IHNzOHiIRi4"
+            },
+            {
+              "title": "How You Like That",
+              "youtube": "https://www.youtube.com/watch?v=ioNng23DkIM"
+            },
+            {
+              "title": "Lovesick Girls",
+              "youtube": "https://www.youtube.com/watch?v=dyrsRzI4jB8"
+            }
+          ],
+          "members": [
+            {
+              "member": "제니",
+              "role": "메인 래퍼, 리드 보컬"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "agent": "스타쉽 엔터테인먼트",
+      "address": "서울특별시 강남구 선릉로131길 13",
+      "groups": [
+        {
+          "group": "아이브 (IVE)",
+          "hitsongs": [
+            {
+              "title": "LOVE DIVE",
+              "youtube": "https://www.youtube.com/watch?v=MN_d-1S6p4s"
+            },
+            {
+              "title": "After LIKE",
+              "youtube": "https://www.youtube.com/watch?v=F0BwzI-T8Jc"
+            },
+            {
+              "title": "I AM",
+              "youtube": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
+            },
+            {
+              "title": "Kitsch",
+              "youtube": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
+            }
+          ],
+          "members": [
+            {
+              "member": "장원영",
+              "role": "보컬, 센터, 비주얼"
+            }
+          ]
+        },
+        {
+          "group": "몬스타엑스 (MONSTA X)",
+          "hitsongs": [
+            {
+              "title": "Shoot Out",
+              "youtube": "https://www.youtube.com/watch?v=845vN4-4H_A"
+            },
+            {
+              "title": "FANTASIA",
+              "youtube": "https://www.youtube.com/watch?v=l_tW8rE5XpE"
+            }
+          ],
+          "members": [
+            {
+              "member": "셔누",
+              "role": "리더, 메인 댄서, 리드 보컬"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
