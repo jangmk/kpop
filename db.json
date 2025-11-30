@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "소속사명": "하이브 (HYBE)",
+    "회사주소": "서울특별시 용산구 한강대로 42 용산 트레이드 센터",
+    "그룹목록": [
+      {
+        "그룹명": "방탄소년단 (BTS)",
+        "히트곡목록": [
+          {
+            "제목": "Dynamite",
+            "유튜브URL": "https://www.youtube.com/watch?v=gdZLi9oWCAk"
+          },
+          {
+            "제목": "Butter",
+            "유튜브URL": "https://www.youtube.com/watch?v=WMweEpGlu_U"
+          },
+          {
+            "제목": "DNA",
+            "유튜브URL": "https://www.youtube.com/watch?v=MBdVXkSygzI"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "RM",
+            "그룹내역할": "리더, 메인 래퍼"
+          },
+          {
+            "멤버이름": "지민",
+            "그룹내역할": "리드 보컬, 메인 댄서"
+          }
+        ]
+      },
+      {
+        "그룹명": "뉴진스 (NewJeans)",
+        "히트곡목록": [
+          {
+            "제목": "Hype Boy",
+            "유튜브URL": "https://www.youtube.com/watch?v=MFKzrgMdYxY"
+          },
+          {
+            "제목": "Ditto",
+            "유튜브URL": "https://www.youtube.com/watch?v=pBuZEsByXzE"
+          },
+          {
+            "제목": "Attention",
+            "유튜브URL": "https://www.youtube.com/watch?v=js1CtxSY38I"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "하니",
+            "그룹내역할": "보컬, 댄서"
+          },
+          {
+            "멤버이름": "민지",
+            "그룹내역할": "보컬, 댄서"
+          }
+        ]
+      },
+      {
+        "그룹명": "투모로우바이투게더 (TXT)",
+        "히트곡목록": [
+          {
+            "제목": "Good Boy Gone Bad",
+            "유튜브URL": "https://www.youtube.com/watch?v=hN_sPz-Bf3k"
+          },
+          {
+            "제목": "Sugar Rush Ride",
+            "유튜브URL": "https://www.youtube.com/watch?v=V9Qz-c8gq-I"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "수빈",
+            "그룹내역할": "리더, 보컬"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "소속사명": "SM 엔터테인먼트",
+    "회사주소": "서울특별시 성동구 왕십리로 83-21 아크로 서울포레스트 D TOWER",
+    "그룹목록": [
+      {
+        "그룹명": "에스파 (aespa)",
+        "히트곡목록": [
+          {
+            "제목": "Next Level",
+            "유튜브URL": "https://www.youtube.com/watch?v=4TWR90XkY84"
+          },
+          {
+            "제목": "Savage",
+            "유튜브URL": "https://www.youtube.com/watch?v=WP2E53P5Gq4"
+          },
+          {
+            "제목": "Drama",
+            "유튜브URL": "https://www.youtube.com/watch?v=KU5H9Q-L2w4"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "카리나",
+            "그룹내역할": "리더, 메인 댄서, 리드 래퍼, 서브 보컬"
+          },
+          {
+            "멤버이름": "윈터",
+            "그룹내역할": "리드 보컬, 리드 댄서"
+          }
+        ]
+      },
+      {
+        "그룹명": "NCT Dream",
+        "히트곡목록": [
+          {
+            "제목": "Hot Sauce",
+            "유튜브URL": "https://www.youtube.com/watch?v=F_Yc2bYv64Y"
+          },
+          {
+            "제목": "Candy",
+            "유튜브URL": "https://www.youtube.com/watch?v=8-D752_Zl4c"
+          },
+          {
+            "제목": "ISTJ",
+            "유튜브URL": "https://www.youtube.com/watch?v=wldYhSgQo20"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "마크",
+            "그룹내역할": "리더, 메인 래퍼, 메인 댄서"
+          }
+        ]
+      },
+      {
+        "그룹명": "레드벨벳 (Red Velvet)",
+        "히트곡목록": [
+          {
+            "제목": "Psycho",
+            "유튜브URL": "https://www.youtube.com/watch?v=uR8Mrt1IpXg"
+          },
+          {
+            "제목": "Red Flavor (빨간 맛)",
+            "유튜브URL": "https://www.youtube.com/watch?v=WyiIGdP5gO8"
+          },
+          {
+            "제목": "Feel My Rhythm",
+            "유튜브URL": "https://www.youtube.com/watch?v=AJtU_k3kP5k"
+          },
+          {
+            "제목": "Bad Boy",
+            "유튜브URL": "https://www.youtube.com/watch?v=J_CFBxcLz50"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "아이린",
+            "그룹내역할": "리더, 메인 래퍼, 서브 보컬"
+          },
+          {
+            "멤버이름": "슬기",
+            "그룹내역할": "리드 보컬, 메인 댄서"
+          }
+        ]
+      },
+      {
+        "그룹명": "샤이니 (SHINee)",
+        "히트곡목록": [
+          {
+            "제목": "Ring Ding Dong",
+            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_01"
+          },
+          {
+            "제목": "Don't Call Me",
+            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_02"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "민호",
+            "그룹내역할": "메인 래퍼, 서브 보컬"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "소속사명": "JYP 엔터테인먼트",
+    "회사주소": "서울특별시 강동구 강동대로 205",
+    "그룹목록": [
+      {
+        "그룹명": "스트레이 키즈 (Stray Kids)",
+        "히트곡목록": [
+          {
+            "제목": "MANIAC",
+            "유튜브URL": "https://www.youtube.com/watch?v=OStfK9y4g0M"
+          },
+          {
+            "제목": "God's Menu",
+            "유튜브URL": "https://www.youtube.com/watch?v=TQTlCHHWulw"
+          },
+          {
+            "제목": "S-Class",
+            "유튜브URL": "https://www.youtube.com/watch?v=0kYw_fR-W6w"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "방찬",
+            "그룹내역할": "리더, 보컬, 래퍼, 프로듀서"
+          },
+          {
+            "멤버이름": "필릭스",
+            "그룹내역할": "리드 댄서, 리드 래퍼"
+          }
+        ]
+      },
+      {
+        "그룹명": "트와이스 (TWICE)",
+        "히트곡목록": [
+          {
+            "제목": "TT",
+            "유튜브URL": "https://www.youtube.com/watch?v=ePpPVE-RGYY"
+          },
+          {
+            "제목": "CHEER UP",
+            "유튜브URL": "https://www.youtube.com/watch?v=c7rCykM5x_Q"
+          },
+          {
+            "제목": "OOH-AHH하게",
+            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_03"
+          },
+          {
+            "제목": "Alcohol-Free",
+            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_04"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "나연",
+            "그룹내역할": "리드 보컬, 센터"
+          }
+        ]
+      },
+      {
+        "그룹명": "있지 (ITZY)",
+        "히트곡목록": [
+          {
+            "제목": "DALLA DALLA",
+            "유튜브URL": "https://www.youtube.com/watch?v=Hbb5GPXC1go"
+          },
+          {
+            "제목": "WANNABE",
+            "유튜브URL": "https://www.youtube.com/watch?v=fE2Y0S7Jz10"
+          },
+          {
+            "제목": "LOCO",
+            "유튜브URL": "https://www.youtube.com/watch?v=pNfTK39Repk"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "유나",
+            "그룹내역할": "리드 래퍼, 리드 댄서, 비주얼"
+          }
+        ]
+      },
+      {
+        "그룹명": "NMIXX",
+        "히트곡목록": [
+          {
+            "제목": "DICE",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_05"
+          },
+          {
+            "제목": "Party O'Clock",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_06"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "릴리",
+            "그룹내역할": "메인 보컬"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "소속사명": "YG 엔터테인먼트",
+    "회사주소": "서울특별시 마포구 월드컵북로6길 10",
+    "그룹목록": [
+      {
+        "그룹명": "블랙핑크 (BLACKPINK)",
+        "히트곡목록": [
+          {
+            "제목": "DDU-DU DDU-DU",
+            "유튜브URL": "https://www.youtube.com/watch?v=IHNzOHiIRi4"
+          },
+          {
+            "제목": "How You Like That",
+            "유튜브URL": "https://www.youtube.com/watch?v=ioNng23DkIM"
+          },
+          {
+            "제목": "Lovesick Girls",
+            "유튜브URL": "https://www.youtube.com/watch?v=dyrsRzI4jB8"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "제니",
+            "그룹내역할": "메인 래퍼, 리드 보컬"
+          }
+        ]
+      },
+      {
+        "그룹명": "트레저 (TREASURE)",
+        "히트곡목록": [
+          {
+            "제목": "JIKJIN",
+            "유튜브URL": "https://www.youtube.com/watch?v=n-qS_Yv9s7E"
+          },
+          {
+            "제목": "DARARI",
+            "유튜브URL": "https://www.youtube.com/watch?v=Gk7p18H93lY"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "하루토",
+            "그룹내역할": "메인 래퍼"
+          }
+        ]
+      },
+      {
+        "그룹명": "악뮤 (AKMU)",
+        "히트곡목록": [
+          {
+            "제목": "낙하 (NAKKA)",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_07"
+          },
+          {
+            "제목": "DINOSAUR",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_08"
+          },
+          {
+            "제목": "LOVE SCENARIO",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_09"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "이찬혁",
+            "그룹내역할": "메인 보컬, 작곡"
+          },
+          {
+            "멤버이름": "이수현",
+            "그룹내역할": "메인 보컬"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "소속사명": "스타쉽 엔터테인먼트",
+    "회사주소": "서울특별시 강남구 선릉로131길 13",
+    "그룹목록": [
+      {
+        "그룹명": "아이브 (IVE)",
+        "히트곡목록": [
+          {
+            "제목": "LOVE DIVE",
+            "유튜브URL": "https://www.youtube.com/watch?v=MN_d-1S6p4s"
+          },
+          {
+            "제목": "After LIKE",
+            "유튜브URL": "https://www.youtube.com/watch?v=F0BwzI-T8Jc"
+          },
+          {
+            "제목": "I AM",
+            "유튜브URL": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
+          },
+          {
+            "제목": "Kitsch",
+            "유튜브URL": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "장원영",
+            "그룹내역할": "보컬, 센터, 비주얼"
+          }
+        ]
+      },
+      {
+        "그룹명": "몬스타엑스 (MONSTA X)",
+        "히트곡목록": [
+          {
+            "제목": "Shoot Out",
+            "유튜브URL": "https://www.youtube.com/watch?v=845vN4-4H_A"
+          },
+          {
+            "제목": "FANTASIA",
+            "유튜브URL": "https://www.youtube.com/watch?v=l_tW8rE5XpE"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "셔누",
+            "그룹내역할": "리더, 메인 댄서, 리드 보컬"
+          }
+        ]
+      },
+      {
+        "그룹명": "우주소녀 (WJSN)",
+        "히트곡목록": [
+          {
+            "제목": "Secret",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_10"
+          },
+          {
+            "제목": "I-Yah (이야)",
+            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_11"
+          }
+        ],
+        "멤버목록": [
+          {
+            "멤버이름": "보나",
+            "그룹내역할": "리드 댄서, 서브 보컬"
+          }
+        ]
+      }
+    ]
+  }
+]
