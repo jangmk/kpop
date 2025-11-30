@@ -10,7 +10,7 @@
           "hitsongs": [
             {
               "title": "Dynamite",
-              "youtube": "https://www.youtube.com/watch?v=gdZLi9oWCAk"
+              "youtube": "https://www.youtube.com/watch?v=gdZLi9oWNZg"
             },
             {
               "title": "Butter",
@@ -18,17 +18,37 @@
             },
             {
               "title": "DNA",
-              "youtube": "https://www.youtube.com/watch?v=MBdVXkSygzI"
+              "youtube": "https://www.youtube.com/watch?v=MBdVXkSdhwU"
             }
           ],
           "members": [
             {
-              "member": "RM",
+              "name": "RM",
               "role": "리더, 메인 래퍼"
             },
             {
-              "member": "지민",
+              "name": "지민",
               "role": "리드 보컬, 메인 댄서"
+            },
+            {
+              "name": "진",
+              "role": "서브 보컬"
+            },
+            {
+              "name": "슈가",
+              "role": "리드 래퍼"
+            },
+            {
+              "name": "제이홉",
+              "role": "서브 래퍼, 메인 댄서"
+            },
+            {
+              "name": "뷔",
+              "role": "서브 보컬, 리드 댄서"
+            },
+            {
+              "name": "정국",
+              "role": "메인 보컬, 리드 댄서, 서브 래퍼, 막내"
             }
           ]
         },
@@ -37,11 +57,11 @@
           "hitsongs": [
             {
               "title": "Hype Boy",
-              "youtube": "https://www.youtube.com/watch?v=MFKzrgMdYxY"
+              "youtube": "https://www.youtube.com/watch?v=9wUKhEgnllc"
             },
             {
               "title": "Ditto",
-              "youtube": "https://www.youtube.com/watch?v=pBuZEsByXzE"
+              "youtube": "https://www.youtube.com/watch?v=pSUydWEqKwE"
             },
             {
               "title": "Attention",
@@ -50,12 +70,24 @@
           ],
           "members": [
             {
-              "member": "하니",
+              "name": "하니",
               "role": "보컬, 댄서"
             },
             {
-              "member": "민지",
+              "name": "민지",
               "role": "보컬, 댄서"
+            },
+            {
+              "name": "다니엘",
+              "role": "메인 보컬"
+            },
+            {
+              "name": "해린",
+              "role": "서브 보컬"
+            },
+            {
+              "name": "혜인",
+              "role": "서브 보컬, 막내"
             }
           ]
         }
@@ -71,25 +103,33 @@
           "hitsongs": [
             {
               "title": "Next Level",
-              "youtube": "https://www.youtube.com/watch?v=4TWR90XkY84"
+              "youtube": "https://www.youtube.com/watch?v=4TWR90KJl84"
             },
             {
               "title": "Savage",
-              "youtube": "https://www.youtube.com/watch?v=WP2E53P5Gq4"
+              "youtube": "https://www.youtube.com/watch?v=WPdWvnAAurg"
             },
             {
               "title": "Drama",
-              "youtube": "https://www.youtube.com/watch?v=KU5H9Q-L2w4"
+              "youtube": "https://www.youtube.com/watch?v=D8VEhcPeSlc"
             }
           ],
           "members": [
             {
-              "member": "카리나",
+              "name": "카리나",
               "role": "리더, 메인 댄서, 리드 래퍼, 서브 보컬"
             },
             {
-              "member": "윈터",
+              "name": "윈터",
               "role": "리드 보컬, 리드 댄서"
+            },
+            {
+              "name": "지젤",
+              "role": "메인 래퍼, 서브 보컬"
+            },
+            {
+              "name": "닝닝",
+              "role": "메인 보컬, 막내"
             }
           ]
         },
@@ -102,15 +142,15 @@
             },
             {
               "title": "Red Flavor (빨간 맛)",
-              "youtube": "https://www.youtube.com/watch?v=WyiIGdP5gO8"
+              "youtube": "https://www.youtube.com/watch?v=WyiIGEHQP8o"
             },
             {
               "title": "Feel My Rhythm",
-              "youtube": "https://www.youtube.com/watch?v=AJtU_k3kP5k"
+              "youtube": "https://www.youtube.com/watch?v=R9At2ICm4LQ"
             },
             {
               "title": "Bad Boy",
-              "youtube": "https://www.youtube.com/watch?v=J_CFBxcLz50"
+              "youtube": "https://www.youtube.com/watch?v=J_CFBjAyPWE"
             }
           ],
           "members": [
@@ -121,6 +161,18 @@
             {
               "member": "슬기",
               "role": "리드 보컬, 메인 댄서"
+            },
+            {
+              "member": "조이",
+              "role": "서브 보컬, 리드 래퍼"
+            },
+            {
+              "member": "예리",
+              "role": "서브 보컬, 서브 래퍼, 막내"
+            },
+            {
+              "member": "웬디",
+              "role": "메인 보컬"
             }
           ]
         }
@@ -136,21 +188,37 @@
           "hitsongs": [
             {
               "title": "DALLA DALLA",
-              "youtube": "https://www.youtube.com/watch?v=Hbb5GPXC1go"
+              "youtube": "https://www.youtube.com/watch?v=pNfTK39k55U"
             },
             {
               "title": "WANNABE",
-              "youtube": "https://www.youtube.com/watch?v=fE2Y0S7Jz10"
+              "youtube": "https://www.youtube.com/watch?v=fE2h3lGlOsk"
             },
             {
               "title": "LOCO",
-              "youtube": "https://www.youtube.com/watch?v=pNfTK39Repk"
+              "youtube": "https://www.youtube.com/watch?v=MjCZfZfucEc"
             }
           ],
           "members": [
             {
-              "member": "유나",
+              "name": "유나",
               "role": "리드 래퍼, 리드 댄서, 비주얼"
+            },
+            {
+              "name": "예지",
+              "role": "리더, 메인 댄서, 리드 보컬, 서브 래퍼"
+            },
+            {
+              "name": "리아",
+              "role": "메인 보컬"
+            },
+            {
+              "name": "류진",
+              "role": "메인 래퍼, 서브 보컬, 리드 댄서"
+            },
+            {
+              "name": "채령",
+              "role": "메인 댄서, 서브 보컬"
             }
           ]
         }
@@ -165,8 +233,8 @@
           "group": "블랙핑크 (BLACKPINK)",
           "hitsongs": [
             {
-              "title": "DDU-DU DDU-DU",
-              "youtube": "https://www.youtube.com/watch?v=IHNzOHiIRi4"
+              "title": "뚜두뚜두",
+              "youtube": "https://www.youtube.com/watch?v=IHNzOHi8sJs"
             },
             {
               "title": "How You Like That",
@@ -174,13 +242,25 @@
             },
             {
               "title": "Lovesick Girls",
-              "youtube": "https://www.youtube.com/watch?v=dyrsRzI4jB8"
+              "youtube": "https://www.youtube.com/watch?v=dyRsYk0LyA8"
             }
           ],
           "members": [
             {
               "member": "제니",
               "role": "메인 래퍼, 리드 보컬"
+            },
+            {
+              "member": "지수",
+              "role": "리드 보컬, 비주얼"
+            },
+            {
+              "member": "로제",
+              "role": "메인 보컬, 리드 댄서"
+            },
+            {
+              "member": "리사",
+              "role": "메인 댄서, 리드 래퍼, 서브 보컬"
             }
           ]
         }
@@ -196,25 +276,41 @@
           "hitsongs": [
             {
               "title": "LOVE DIVE",
-              "youtube": "https://www.youtube.com/watch?v=MN_d-1S6p4s"
+              "youtube": "https://www.youtube.com/watch?v=Y8JFxS1HlDo"
             },
             {
               "title": "After LIKE",
-              "youtube": "https://www.youtube.com/watch?v=F0BwzI-T8Jc"
+              "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10"
             },
             {
               "title": "I AM",
-              "youtube": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
+              "youtube": "https://www.youtube.com/watch?v=6ZUIwj3FgUY"
             },
             {
               "title": "Kitsch",
-              "youtube": "https://www.youtube.com/watch?v=4-QxS5_xYpM"
+              "youtube": "https://www.youtube.com/watch?v=pG6iaOMV46I"
             }
           ],
           "members": [
             {
-              "member": "장원영",
+              "name": "장원영",
               "role": "보컬, 센터, 비주얼"
+            },
+            {
+              "name": "가을",
+              "role": "리더, 메인 래퍼"
+            },
+            {
+              "name": "레이",
+              "role": "메인 래퍼, 서브 보컬"
+            },
+            {
+              "name": "리즈",
+              "role": "메인 보컬"
+            },
+            {
+              "name": "이서",
+              "role": "리드 보컬, 막내"
             }
           ]
         },
@@ -223,17 +319,37 @@
           "hitsongs": [
             {
               "title": "Shoot Out",
-              "youtube": "https://www.youtube.com/watch?v=845vN4-4H_A"
+              "youtube": "https://www.youtube.com/watch?v=MS10Zz49FHE"
             },
             {
               "title": "FANTASIA",
-              "youtube": "https://www.youtube.com/watch?v=l_tW8rE5XpE"
+              "youtube": "https://www.youtube.com/watch?v=p2JzPlpA1Iw"
             }
           ],
           "members": [
             {
-              "member": "셔누",
+              "name": "셔누",
               "role": "리더, 메인 댄서, 리드 보컬"
+            },
+            {
+              "name": "민혁",
+              "role": "서브 보컬, 비주얼"
+            },
+            {
+              "name": "기현",
+              "role": "메인 보컬"
+            },
+            {
+              "name": "형원",
+              "role": "리드 댄서, 서브 보컬, 비주얼"
+            },
+            {
+              "name": "주헌",
+              "role": "메인 래퍼, 서브 보컬"
+            },
+            {
+              "name": "아이엠",
+              "role": "리드 래퍼, 막내"
             }
           ]
         }
