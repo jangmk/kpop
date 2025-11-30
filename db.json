@@ -24,31 +24,38 @@
           "members": [
             {
               "name": "RM",
-              "role": "리더, 메인 래퍼"
+              "role": "리더, 메인 래퍼",
+              "imgURL": "https://news.kbs.co.kr/data/fckeditor/new/image/2023/03/14/333031678775928812.jpg"
             },
             {
               "name": "지민",
-              "role": "리드 보컬, 메인 댄서"
+              "role": "리드 보컬, 메인 댄서",
+              "imgURL": "https://brikorea.com/data/BR_REPORT/1888640167_B21PuzQb_f9f6d0a6d2d29d3a0f8fb0a112ce71e1556ecb00.png"
             },
             {
               "name": "진",
-              "role": "서브 보컬"
+              "role": "서브 보컬",
+              "imgURL": "https://thumb.mtstarnews.com/21/2025/08/2025082907562595914_1.jpg"
             },
             {
               "name": "슈가",
-              "role": "리드 래퍼"
+              "role": "리드 래퍼",
+              "imgURL": "https://i.namu.wiki/i/CVRudbeaQFb8IpouL0is4aOeWorB0oUrWvLT5m3cSyY7vI72i-c2SPFt6LYHyWh4TO_-fQpebcbopABbVRHndQ.webp"
             },
             {
               "name": "제이홉",
-              "role": "서브 래퍼, 메인 댄서"
+              "role": "서브 래퍼, 메인 댄서",
+              "imgURL": "https://i.namu.wiki/i/ltQHLec4jEinSMGwGXeA45kF4L_CrYHvrK3Q5lm2WCridcgeqtVBC5JvetbTqYKfaIOzsqooYCGf38cRYTWVTg.webp"
             },
             {
               "name": "뷔",
-              "role": "서브 보컬, 리드 댄서"
+              "role": "서브 보컬, 리드 댄서",
+              "imgURL": "https://cf.asiaartistawards.com/news/21/2022/06/2022063007063044120_1.jpg"
             },
             {
               "name": "정국",
-              "role": "메인 보컬, 리드 댄서, 서브 래퍼, 막내"
+              "role": "메인 보컬, 리드 댄서, 서브 래퍼, 막내",
+              "imgURL": "https://cdn.topstarnews.net/news/photo/202408/15529390_1374763_392.jpg"
             }
           ]
         },
@@ -71,23 +78,28 @@
           "members": [
             {
               "name": "하니",
-              "role": "보컬, 댄서"
+              "role": "보컬, 댄서",
+              "imgURL": "https://file.sportsseoul.com/news/cms/2023/08/08/news-p.v1.20230808.3d16c6c982c8407a812ad1bb98fb6b53_P1.jpg"
             },
             {
               "name": "민지",
-              "role": "보컬, 댄서"
+              "role": "보컬, 댄서",
+              "imgURL": "https://cdn.spotvnews.co.kr/news/photo/202310/637173_931349_4820.jpg"
             },
             {
               "name": "다니엘",
-              "role": "메인 보컬"
+              "role": "메인 보컬",
+              "imgURL": "https://cdn.shown.co.kr/news/photo/202309/2821_3765_5743.jpg"
             },
             {
               "name": "해린",
-              "role": "서브 보컬"
+              "role": "서브 보컬",
+              "imgURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/12/16/c1b33837-5a3a-49bb-9c87-8a6a7df54730.jpg"
             },
             {
               "name": "혜인",
-              "role": "서브 보컬, 막내"
+              "role": "서브 보컬, 막내",
+              "imgURL": "https://entertainimg.kbsmedia.co.kr/cms/uploads/PERSON_20240315094135_88b166230ccab178e704de12bd9a9273.png"
             }
           ]
         }
@@ -117,19 +129,23 @@
           "members": [
             {
               "name": "카리나",
-              "role": "리더, 메인 댄서, 리드 래퍼, 서브 보컬"
+              "role": "리더, 메인 댄서, 리드 래퍼, 서브 보컬",
+              "imgURL": "https://pimg.mk.co.kr/news/cms/202405/27/news-p.v1.20240527.af01d031fc604a9fafd531f5422cfd0e_R.jpeg"
             },
             {
               "name": "윈터",
-              "role": "리드 보컬, 리드 댄서"
+              "role": "리드 보컬, 리드 댄서",
+              "imgURL": "https://menu.moneys.co.kr/moneyweek/thumb/2025/01/10/06/2025011016581868696_1.jpg"
             },
             {
               "name": "지젤",
-              "role": "메인 래퍼, 서브 보컬"
+              "role": "메인 래퍼, 서브 보컬",
+              "imgURL": "https://photo.newsen.com/news_photo/2024/02/29/202402291041583510_1.jpg"
             },
             {
               "name": "닝닝",
-              "role": "메인 보컬, 막내"
+              "role": "메인 보컬, 막내",
+              "imgURL": "https://i.namu.wiki/i/kjhW8DwjD7y0zML-9sppbjoiUI5GkKkpp_Tc8RhOxC3P-nRavchivBUMa32xvGyOa9n8LmSTBPEeCa0Eyt1F7w.webp"
             }
           ]
         },
@@ -156,23 +172,28 @@
           "members": [
             {
               "member": "아이린",
-              "role": "리더, 메인 래퍼, 서브 보컬"
+              "role": "리더, 메인 래퍼, 서브 보컬",
+              "imgURL": "https://cdn.jemin.com/news/photo/202506/818367_405349_1120.jpg"
             },
             {
               "member": "슬기",
-              "role": "리드 보컬, 메인 댄서"
+              "role": "리드 보컬, 메인 댄서",
+              "imgURL": "https://busan.fnnews.com/resource/media/image/2023/08/10/202308101826560732_l.jpg"
             },
             {
               "member": "조이",
-              "role": "서브 보컬, 리드 래퍼"
+              "role": "서브 보컬, 리드 래퍼",
+              "imgURL": "https://cdn.spotvnews.co.kr/news/photo/202402/660274_997871_5123.jpg"
             },
             {
               "member": "예리",
-              "role": "서브 보컬, 서브 래퍼, 막내"
+              "role": "서브 보컬, 서브 래퍼, 막내",
+              "imgURL": "https://images.khan.co.kr/article/2025/05/27/news-p.v1.20250512.29c36a720dc34c43b7b054e4dd8f4010_P1.png"
             },
             {
               "member": "웬디",
-              "role": "메인 보컬"
+              "role": "메인 보컬",
+              "imgURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/02/20/22df9a4f-10b3-4ed7-8140-d1e358750c06.jpg"
             }
           ]
         }
@@ -202,23 +223,28 @@
           "members": [
             {
               "name": "유나",
-              "role": "리드 래퍼, 리드 댄서, 비주얼"
+              "role": "리드 래퍼, 리드 댄서, 비주얼",
+              "imgURL": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2022/1217/IE003091261_STD.jpg"
             },
             {
               "name": "예지",
-              "role": "리더, 메인 댄서, 리드 보컬, 서브 래퍼"
+              "role": "리더, 메인 댄서, 리드 보컬, 서브 래퍼",
+              "imgURL": "https://img.sbs.co.kr/newsnet/etv/upload/2025/03/10/30000979417_1280.jpg"
             },
             {
               "name": "리아",
-              "role": "메인 보컬"
+              "role": "메인 보컬",
+              "imgURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/15/d9090a78-3904-47b8-b29f-1560405cf03f.jpg"
             },
             {
               "name": "류진",
-              "role": "메인 래퍼, 서브 보컬, 리드 댄서"
+              "role": "메인 래퍼, 서브 보컬, 리드 댄서",
+              "imgURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/25/276b31ae-dbec-4f08-baa6-64643b1d6c80.jpg"
             },
             {
               "name": "채령",
-              "role": "메인 댄서, 서브 보컬"
+              "role": "메인 댄서, 서브 보컬",
+              "imgURL": "https://newsimg.sedaily.com/2023/10/13/29VXYXD9WC_1.jpg"
             }
           ]
         }
@@ -248,19 +274,23 @@
           "members": [
             {
               "member": "제니",
-              "role": "메인 래퍼, 리드 보컬"
+              "role": "메인 래퍼, 리드 보컬",
+              "imgURL": "https://cphoto.asiae.co.kr/listimglink/1/2023041419525789689_1681469577.jpeg"
             },
             {
               "member": "지수",
-              "role": "리드 보컬, 비주얼"
+              "role": "리드 보컬, 비주얼",
+              "imgURL": "https://img9.yna.co.kr/etc/inner/KR/2021/10/10/AKR20211010018200005_02_i_P4.jpg"
             },
             {
               "member": "로제",
-              "role": "메인 보컬, 리드 댄서"
+              "role": "메인 보컬, 리드 댄서",
+              "imgURL": "https://thumb.mtstarnews.com/06/2020/01/2020012313444138978_1.jpg"
             },
             {
               "member": "리사",
-              "role": "메인 댄서, 리드 래퍼, 서브 보컬"
+              "role": "메인 댄서, 리드 래퍼, 서브 보컬",
+              "imgURL": "https://image.xportsnews.com/contents/images/upload/article/2019/0926/mb_1569467201071325.jpg"
             }
           ]
         }
@@ -294,23 +324,28 @@
           "members": [
             {
               "name": "장원영",
-              "role": "보컬, 센터, 비주얼"
+              "role": "보컬, 센터, 비주얼",
+              "imgURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/07/26/ad67428d-40e1-44ed-8a0a-baa8fc7f39ca.jpg"
             },
             {
               "name": "가을",
-              "role": "리더, 메인 래퍼"
+              "role": "리더, 메인 래퍼",
+              "imgURL": "https://image.xportsnews.com/contents/images/upload/article/2023/1202/mb_1701504520822895.jpg"
             },
             {
               "name": "레이",
-              "role": "메인 래퍼, 서브 보컬"
+              "role": "메인 래퍼, 서브 보컬",
+              "imgURL": "https://i.namu.wiki/i/9Uw4N03XlI9RoNJVVDmxiUr-Bg0fBCAjfbLSuXsXhWPSiVEx8f2BoErZ5NQwyVCdnhB1BWIbWi1V7WPSVRme_w.webp"
             },
             {
               "name": "리즈",
-              "role": "메인 보컬"
+              "role": "메인 보컬",
+              "imgURL": "https://news.nateimg.co.kr/orgImg/xs/2024/01/06/1704540562032675.jpg"
             },
             {
               "name": "이서",
-              "role": "리드 보컬, 막내"
+              "role": "리드 보컬, 막내",
+              "imgURL": "https://cdn.m-i.kr/news/photo/202404/1113836_880899_1051.jpg"
             }
           ]
         },
@@ -329,27 +364,33 @@
           "members": [
             {
               "name": "셔누",
-              "role": "리더, 메인 댄서, 리드 보컬"
+              "role": "리더, 메인 댄서, 리드 보컬",
+              "imgURL": "https://i.namu.wiki/i/DdCcR3H8lYhPv52zL-9hlEjRGpSRqDQSTViQ2lcZCmIus2thZiyfl2ZpQkZdCbxXJcPj6UU3_-XUw2JhGdSM3w.webp"
             },
             {
               "name": "민혁",
-              "role": "서브 보컬, 비주얼"
+              "role": "서브 보컬, 비주얼",
+              "imgURL": "https://i.namu.wiki/i/Zgtf4GIjjJewQxmzdZZQhATHB_TBGG7irLESef6F1943D5Wr0Nd1BHNOvTj4EDGs0umxNF02gICOFsQ4ixCeFQ.webp"
             },
             {
               "name": "기현",
-              "role": "메인 보컬"
+              "role": "메인 보컬",
+              "imgURL": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2021/02/26/1614328542888315.jpg"
             },
             {
               "name": "형원",
-              "role": "리드 댄서, 서브 보컬, 비주얼"
+              "role": "리드 댄서, 서브 보컬, 비주얼",
+              "imgURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HYUNGWON_MarieClarieKorea_2021.png"
             },
             {
               "name": "주헌",
-              "role": "메인 래퍼, 서브 보컬"
+              "role": "메인 래퍼, 서브 보컬",
+              "imgURL": "https://i.namu.wiki/i/RTqWOLa_dhTLfzY-u5wQbqpwUAyN-XeiYY04nBO2ZWXzsfmzH43070AOpllHSaEQ_wvz1nTUn9jmj77j5lKugg.webp"
             },
             {
               "name": "아이엠",
-              "role": "리드 래퍼, 막내"
+              "role": "리드 래퍼, 막내",
+              "imgURL": "https://cdn.spotvnews.co.kr/news/photo/202412/717969_1133688_2558.jpg"
             }
           ]
         }
