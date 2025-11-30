@@ -348,51 +348,6 @@
               "imgURL": "https://cdn.m-i.kr/news/photo/202404/1113836_880899_1051.jpg"
             }
           ]
-        },
-        {
-          "group": "몬스타엑스 (MONSTA X)",
-          "hitsongs": [
-            {
-              "title": "Shoot Out",
-              "youtube": "https://www.youtube.com/watch?v=MS10Zz49FHE"
-            },
-            {
-              "title": "FANTASIA",
-              "youtube": "https://www.youtube.com/watch?v=p2JzPlpA1Iw"
-            }
-          ],
-          "members": [
-            {
-              "name": "셔누",
-              "role": "리더, 메인 댄서, 리드 보컬",
-              "imgURL": "https://i.namu.wiki/i/DdCcR3H8lYhPv52zL-9hlEjRGpSRqDQSTViQ2lcZCmIus2thZiyfl2ZpQkZdCbxXJcPj6UU3_-XUw2JhGdSM3w.webp"
-            },
-            {
-              "name": "민혁",
-              "role": "서브 보컬, 비주얼",
-              "imgURL": "https://i.namu.wiki/i/Zgtf4GIjjJewQxmzdZZQhATHB_TBGG7irLESef6F1943D5Wr0Nd1BHNOvTj4EDGs0umxNF02gICOFsQ4ixCeFQ.webp"
-            },
-            {
-              "name": "기현",
-              "role": "메인 보컬",
-              "imgURL": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2021/02/26/1614328542888315.jpg"
-            },
-            {
-              "name": "형원",
-              "role": "리드 댄서, 서브 보컬, 비주얼",
-              "imgURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HYUNGWON_MarieClarieKorea_2021.png"
-            },
-            {
-              "name": "주헌",
-              "role": "메인 래퍼, 서브 보컬",
-              "imgURL": "https://i.namu.wiki/i/RTqWOLa_dhTLfzY-u5wQbqpwUAyN-XeiYY04nBO2ZWXzsfmzH43070AOpllHSaEQ_wvz1nTUn9jmj77j5lKugg.webp"
-            },
-            {
-              "name": "아이엠",
-              "role": "리드 래퍼, 막내",
-              "imgURL": "https://cdn.spotvnews.co.kr/news/photo/202412/717969_1133688_2558.jpg"
-            }
-          ]
         }
       ]
     }
