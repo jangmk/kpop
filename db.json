@@ -131,33 +131,6 @@
     "회사주소": "서울특별시 강동구 강동대로 205",
     "그룹목록": [
       {
-        "그룹명": "트와이스 (TWICE)",
-        "히트곡목록": [
-          {
-            "제목": "TT",
-            "유튜브URL": "https://www.youtube.com/watch?v=ePpPVE-RGYY"
-          },
-          {
-            "제목": "CHEER UP",
-            "유튜브URL": "https://www.youtube.com/watch?v=c7rCykM5x_Q"
-          },
-          {
-            "제목": "OOH-AHH하게",
-            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_03"
-          },
-          {
-            "제목": "Alcohol-Free",
-            "유튜브URL": "https://www.youtube.com/watch?v=rought_url_04"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "나연",
-            "그룹내역할": "리드 보컬, 센터"
-          }
-        ]
-      },
-      {
         "그룹명": "있지 (ITZY)",
         "히트곡목록": [
           {
@@ -207,33 +180,6 @@
           {
             "멤버이름": "제니",
             "그룹내역할": "메인 래퍼, 리드 보컬"
-          }
-        ]
-      },
-      {
-        "그룹명": "악뮤 (AKMU)",
-        "히트곡목록": [
-          {
-            "제목": "낙하 (NAKKA)",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_07"
-          },
-          {
-            "제목": "DINOSAUR",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_08"
-          },
-          {
-            "제목": "LOVE SCENARIO",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_09"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "이찬혁",
-            "그룹내역할": "메인 보컬, 작곡"
-          },
-          {
-            "멤버이름": "이수현",
-            "그룹내역할": "메인 보컬"
           }
         ]
       }
@@ -287,25 +233,6 @@
           {
             "멤버이름": "셔누",
             "그룹내역할": "리더, 메인 댄서, 리드 보컬"
-          }
-        ]
-      },
-      {
-        "그룹명": "우주소녀 (WJSN)",
-        "히트곡목록": [
-          {
-            "제목": "Secret",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_10"
-          },
-          {
-            "제목": "I-Yah (이야)",
-            "유튜브URL": "https://www.youtube.com/watch?v=ght_url_11"
-          }
-        ],
-        "멤버목록": [
-          {
-            "멤버이름": "보나",
-            "그룹내역할": "리드 댄서, 서브 보컬"
           }
         ]
       }
