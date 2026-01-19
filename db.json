@@ -169,27 +169,27 @@
           ],
           "members": [
             {
-              "member": "아이린",
+              "name": "아이린",
               "role": "리더, 메인 래퍼, 서브 보컬",
               "imgURL": "/2024/07/12/2DBPN7N5JQ_1.jpg"
             },
             {
-              "member": "슬기",
+              "name": "슬기",
               "role": "리드 보컬, 메인 댄서",
               "imgURL": "/2023/09/22/29US7XVEFA_1.jpg"
             },
             {
-              "member": "조이",
+              "name": "조이",
               "role": "서브 보컬, 리드 래퍼",
               "imgURL": "/2024/07/12/2DBPNFFMVA_1.jpg"
             },
             {
-              "member": "예리",
+              "name": "예리",
               "role": "서브 보컬, 서브 래퍼, 막내",
               "imgURL": "/2024/04/05/2D7SMG0L3Y_1.jpg"
             },
             {
-              "member": "웬디",
+              "name": "웬디",
               "role": "메인 보컬",
               "imgURL": "/2024/01/24/2D47HZ4F1A_1.jpg"
             }
