@@ -269,22 +269,22 @@
           ],
           "members": [
             {
-              "member": "제니",
+              "name": "제니",
               "role": "메인 래퍼, 리드 보컬",
               "imgURL": "/2023/11/24/29XD0V4P8Y_1.jpg"
             },
             {
-              "member": "지수",
+              "name": "지수",
               "role": "리드 보컬, 비주얼",
               "imgURL": "/2024/08/09/2DCY94539Z_1.jpg"
             },
             {
-              "member": "로제",
+              "name": "로제",
               "role": "메인 보컬, 리드 댄서",
               "imgURL": "/2023/05/22/29POGBFBWC_1.jpg"
             },
             {
-              "member": "리사",
+              "name": "리사",
               "role": "메인 댄서, 리드 래퍼, 서브 보컬",
               "imgURL": "/2023/12/13/29YHV2EVOB_1.jpg"
             }
