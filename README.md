@@ -1,2 +1,2 @@
 # kpop
-확인용 "https://newsimg.sedaily.com"
+데일리뉴스 newsimg.sedaily.com
